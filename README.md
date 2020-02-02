@@ -1,2 +1,2 @@
 # Kaggle
-I upload my submissions for Kaggle competitions.
+I upload my submissions here for Kaggle competitions.
